@@ -12,8 +12,7 @@
       "react": "FaReact",
       "sass": "FaSass"
    	 }
-    }, 
-	  
+    },  
     { 
     "id": 2, 
     "title": "Pokédex",
@@ -24,6 +23,6 @@
       "typescript": "SiTypescript",
       "angular": "FaAngular",
       "sass": "FaSass"
-    },
-  ],
+    }
+  ]
 }
